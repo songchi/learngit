@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 aaa
 bbb
 Creating a new branch is quick AND simple.
+ccc
